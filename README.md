@@ -8,16 +8,16 @@ The script allows you to configure the number of spheres, the voxel size, and th
 
 ## Results 
 ### Sphere Generation Parameters
-![Parametrage](Images/parametrage.jpg)
+![Parametrage](Images/parametrage.png)
 ### Single Voxel Sphere
-![Parametrage](Images/Single.jpg)
+![Parametrage](Images/Single.png)
 ### Multiple Voxel Spheres
 #### Union 
-![Parametrage](Images/Multiple.jpg)
+![Parametrage](Images/Multiple.png)
 #### Intersection
-![Parametrage](Images/Intersection.jpg)
+![Parametrage](Images/Intersection.png)
 #### Complement 
-![Parametrage](Images/difference.jpg)
+![Parametrage](Images/difference.png)
 ### Destruction Tool
-![Parametrage](Images/Potentiel_0.jpg)
-![Parametrage](Images/Potentiel_1.jpg)
+![Parametrage](Images/Potentiel_0.png)
+![Parametrage](Images/Potentiel_1.png)
